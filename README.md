@@ -57,17 +57,13 @@ The tabular observation of the average time for each action can be seen as follo
 that the average time is directly proportional to the number of users, with their corresponding
 data increasing accordingly.
 
-|<p>Number</p><p>of users</p>||<p>Average requests</p><p>handled (/s)</p>||<p>Follow/Offline</p><p>/Online</p>||QueryMentions QueryHashTag Tweet ReTweet|
+|<p>Number</p><p>of users</p>|<p>Average requests</p><p>handled (/s)</p>|<p>Follow/Offline</p><p>/Online</p>|QueryMentions|QueryHashTag|Tweet|ReTweet|
 | :- | :- | :- | :- | :- | :- | :- |
-250 2012 1.5171 2.6831 3.0562 2.4365 3.5147
-
-1000 4113 5.3948 6.0221 5.9883 5.0113 4.2791
-
-2500 4794 7.8188 7.7218 7.7122 8.9973 8.6782
-
-5000 5027 1301.4530 1304.8756 1307.0056 1123.1453 1231.6104
-
-10000 4429 2489.7765 2209.7923 2335.6143 2071.8578 2397.0441
+|250| |2012| |1.5171| |2.6831| |3.0562| |2.4365| |3.5147|
+|1000| |4113| |5.3948| |6.0221| |5.9883| |5.0113| |4.2791|
+|2500| |4794| |7.8188| |7.7218| |7.7122| |8.9973| |8.6782|
+|5000| |5027| |1301.4530| |1304.8756| |1307.0056| |1123.1453| |1231.6104|
+|10000| |4429| |2489.7765| |2209.7923| |2335.6143| |2071.8578| |2397.0441|
 
 **Client-side output:**
 
